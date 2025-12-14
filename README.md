@@ -1,4 +1,4 @@
-<img width="613" height="374" alt="Screenshot 2025-12-14 182439" src="https://github.com/user-attachments/assets/fd0ac80b-ba3b-4d07-9aad-d1ad7ea4903e" />AIM:
+AIM:
 
 To implement T flipflop using verilog and validating their functionality using their functional tables
 
